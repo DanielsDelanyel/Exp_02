@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926aaa2ab3fb832429d431f9ebb0117a, type: 3}
+  m_Name: Large_Healt_Potion_Data
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "Gigantyczna Mikstura Lecz\u0105ca"
+  icon: {fileID: 3850459649635575903, guid: 0fd25e1b83f16c643ad46bac0be4e3ce, type: 3}
+  description: "Jak ten potw\xF3r zmie\u015Bci\u0142 si\u0119 do twojej kieszeni?
+    Nie wa\u017Cne, w ka\u017Cdym razie wiadome jest to, \u017Ce ta mikstura wyleczy
+    natychmiast niemal wszystkie rany.\n\n(Zdrowie +50)"
+  itemType: 1
+  healAmount: 50
+  damageBonus: 0
+  armorBonus: 0
+  strengthBonus: 0
+  vitalityBonus: 0
+  agilityBonus: 0
+  intellegenceBonus: 0
+  itemPrefab: {fileID: 6683128867960267162, guid: 5c3be36cc76d25342b17ab723821f3cf, type: 3}

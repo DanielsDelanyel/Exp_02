@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926aaa2ab3fb832429d431f9ebb0117a, type: 3}
+  m_Name: Big_Healt_Potion_Data
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "Du\u017Ca Mikstura Lecz\u0105ca"
+  icon: {fileID: -2531453378190643374, guid: 2222a5aeac450b043889487e033eacaf, type: 3}
+  description: "Po\u017C\u0105dna porcja uzdrowienia w przyst\u0119pnym opakowaniu.\n\n(Zdrowie
+    +20)"
+  itemType: 1
+  healAmount: 20
+  damageBonus: 0
+  armorBonus: 0
+  strengthBonus: 0
+  vitalityBonus: 0
+  agilityBonus: 0
+  intellegenceBonus: 0
+  itemPrefab: {fileID: 6683128867960267162, guid: bfaa6b9e258039144a953d39f338008b, type: 3}

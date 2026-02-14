@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926aaa2ab3fb832429d431f9ebb0117a, type: 3}
+  m_Name: Cookie_Data
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Ciasteczko
+  icon: {fileID: -7668348467497441016, guid: 9c4ca8484a48a9a4c97eb19b658aeb41, type: 3}
+  description: "Dobre, smaczne, ma\u0142e, dobre.\n\n(Zdrowie +10)"
+  itemType: 1
+  healAmount: 10
+  damageBonus: 0
+  armorBonus: 0
+  strengthBonus: 0
+  vitalityBonus: 0
+  agilityBonus: 0
+  intellegenceBonus: 0
+  itemPrefab: {fileID: 6683128867960267162, guid: 5928d269614adc94a8a385f17e5028be, type: 3}

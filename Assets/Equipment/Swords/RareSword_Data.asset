@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 926aaa2ab3fb832429d431f9ebb0117a, type: 3}
+  m_Name: RareSword_Data
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Rzadki Miecz
+  icon: {fileID: -6057427275313168550, guid: 83fd0e921216f31458f52ac35d9bc404, type: 3}
+  description: "Niezwyczajny miecz posiadaj\u0105cy ponadprzeci\u0119tne w\u0142a\u015Bciwo\u015Bci
+    tn\u0105ce\n\n(Obra\u017Cenia: 20)\n(Zr\u0119czno\u015B\u0107 +1)"
+  itemType: 2
+  damageBonus: 20
+  armorBonus: 0
+  strengthBonus: 0
+  vitalityBonus: 0
+  agilityBonus: 1
+  intellegenceBonus: 0
+  itemPrefab: {fileID: 6683128867960267162, guid: 6d0fffaf51a2bfc458fd862ac842f1ca, type: 3}
